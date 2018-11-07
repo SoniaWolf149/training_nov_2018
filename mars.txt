@@ -5,4 +5,3 @@ Venus followed by Earth (those pesky Earthings) followed by Mars!
 
 This is an additional comment about the Red Planet.
 I am going to definitely have the ill-considered change in this file. 
-Haven't done research properly. Writing up some gibberish to hoodwink supervisor.
